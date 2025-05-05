@@ -1,6 +1,5 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import MainPage from "./Component/MainPage";
 import Player from "./Component/PlayerNameForm";
 import Game from "./Component/Game";
 import Computer from "./Component/Computer";

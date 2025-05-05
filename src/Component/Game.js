@@ -91,7 +91,7 @@ const Game = () => {
       return "Its a draw!!"
     }
     const currentName = isXNext ? playerName1 : playerName2;
-    return `${currentName}'s turn`;
+    return `${currentName}'s  turn`;
   };
 
   const handleResetGame = () => {
